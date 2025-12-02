@@ -7,6 +7,6 @@ st.title('Hello, kitty')
 st.write('this is for deplying at streamlit')
 
 
-img = Image.open("Lenna.png")
+img = Image.open("lena.png")
 
 st.image(img)
